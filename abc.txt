@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is F855-9090
+
+ Directory of C:\Users\Nidhipc\Desktop\myproject11
+
+11/09/2017  01:55 PM    <DIR>          .
+11/09/2017  01:55 PM    <DIR>          ..
+11/09/2017  01:55 PM                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   2,026,475,520 bytes free
